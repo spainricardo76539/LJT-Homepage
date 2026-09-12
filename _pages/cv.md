@@ -16,6 +16,7 @@ redirect_from:
   * Advisor: Professor Junxian He
 * B.Eng., Shanghai Jiao Tong University, 2020-2024
   * Graduated in June 2024
+  * Advisor during undergraduate studies: Professor Junxian He
   * Zhiyuan Honor Scholarship
 
 ## Work Experience
